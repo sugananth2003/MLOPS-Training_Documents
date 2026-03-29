@@ -487,3 +487,6 @@ Lab ::
 
 	- Create GitHub Account :::
 		https://github.com/
+
+
+Updating the MPLOps requirements Training Docs
